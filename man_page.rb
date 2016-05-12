@@ -1,4 +1,3 @@
-
 def intro
   #create a menu array
   #print out menu of command lines and exit
